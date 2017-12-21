@@ -2,6 +2,23 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.9.
 
+## Description
+Ejemplo de como consumir la API de Spotify, en la cual se abordaron los siguientes temas:
+
+- Rutas y parámetros de rutas.
+- Uso de carruseles del Bootstrap 4.
+- Uso del HTTP para obtener información.
+- Uso de la API de Spotify para obtener información de:
+  - Artistas
+  - Albumes
+  - Audio
+- Trabajo sobre el manejo de data asíncrona.
+- ngModel para enlazar campos de texto a variables del componente.
+- Widgets de Spotify.
+- HTML5 audio.
+- Observables.
+- Maps.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
